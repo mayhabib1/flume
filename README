@@ -40,7 +40,7 @@ Compiling Flume requires the following tools:
 * Apache Maven 3.x
 
 Note: The Apache Flume build requires more memory than the default configuration.
-We recommend you set the following Maven options:
+We recommend that you set the following Maven options:
 
 export MAVEN_OPTS="-Xms512m -Xmx1024m -XX:PermSize=256m -XX:MaxPermSize=512m"
 
